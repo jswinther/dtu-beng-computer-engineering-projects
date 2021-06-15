@@ -1,0 +1,11 @@
+C:\Users\Jonat\Documents\GitHub\CodeJudge\WrittenMandatory3Question3\obj\Debug\netcoreapp2.1\WrittenMandatory3Question3.csprojAssemblyReference.cache
+C:\Users\Jonat\Documents\GitHub\CodeJudge\WrittenMandatory3Question3\obj\Debug\netcoreapp2.1\WrittenMandatory3Question3.csproj.CoreCompileInputs.cache
+C:\Users\Jonat\Documents\GitHub\CodeJudge\WrittenMandatory3Question3\obj\Debug\netcoreapp2.1\WrittenMandatory3Question3.AssemblyInfoInputs.cache
+C:\Users\Jonat\Documents\GitHub\CodeJudge\WrittenMandatory3Question3\obj\Debug\netcoreapp2.1\WrittenMandatory3Question3.AssemblyInfo.cs
+C:\Users\Jonat\Documents\GitHub\CodeJudge\WrittenMandatory3Question3\bin\Debug\netcoreapp2.1\WrittenMandatory3Question3.deps.json
+C:\Users\Jonat\Documents\GitHub\CodeJudge\WrittenMandatory3Question3\bin\Debug\netcoreapp2.1\WrittenMandatory3Question3.runtimeconfig.json
+C:\Users\Jonat\Documents\GitHub\CodeJudge\WrittenMandatory3Question3\bin\Debug\netcoreapp2.1\WrittenMandatory3Question3.runtimeconfig.dev.json
+C:\Users\Jonat\Documents\GitHub\CodeJudge\WrittenMandatory3Question3\bin\Debug\netcoreapp2.1\WrittenMandatory3Question3.dll
+C:\Users\Jonat\Documents\GitHub\CodeJudge\WrittenMandatory3Question3\bin\Debug\netcoreapp2.1\WrittenMandatory3Question3.pdb
+C:\Users\Jonat\Documents\GitHub\CodeJudge\WrittenMandatory3Question3\obj\Debug\netcoreapp2.1\WrittenMandatory3Question3.dll
+C:\Users\Jonat\Documents\GitHub\CodeJudge\WrittenMandatory3Question3\obj\Debug\netcoreapp2.1\WrittenMandatory3Question3.pdb

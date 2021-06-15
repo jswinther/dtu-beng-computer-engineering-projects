@@ -1,0 +1,11 @@
+C:\Users\Jonat\Documents\GitHub\CodeJudge\bin\Debug\netcoreapp2.1\CodeJudge.deps.json
+C:\Users\Jonat\Documents\GitHub\CodeJudge\bin\Debug\netcoreapp2.1\CodeJudge.runtimeconfig.json
+C:\Users\Jonat\Documents\GitHub\CodeJudge\bin\Debug\netcoreapp2.1\CodeJudge.runtimeconfig.dev.json
+C:\Users\Jonat\Documents\GitHub\CodeJudge\bin\Debug\netcoreapp2.1\CodeJudge.dll
+C:\Users\Jonat\Documents\GitHub\CodeJudge\bin\Debug\netcoreapp2.1\CodeJudge.pdb
+C:\Users\Jonat\Documents\GitHub\CodeJudge\obj\Debug\netcoreapp2.1\CodeJudge.csprojAssemblyReference.cache
+C:\Users\Jonat\Documents\GitHub\CodeJudge\obj\Debug\netcoreapp2.1\CodeJudge.csproj.CoreCompileInputs.cache
+C:\Users\Jonat\Documents\GitHub\CodeJudge\obj\Debug\netcoreapp2.1\CodeJudge.AssemblyInfoInputs.cache
+C:\Users\Jonat\Documents\GitHub\CodeJudge\obj\Debug\netcoreapp2.1\CodeJudge.AssemblyInfo.cs
+C:\Users\Jonat\Documents\GitHub\CodeJudge\obj\Debug\netcoreapp2.1\CodeJudge.dll
+C:\Users\Jonat\Documents\GitHub\CodeJudge\obj\Debug\netcoreapp2.1\CodeJudge.pdb

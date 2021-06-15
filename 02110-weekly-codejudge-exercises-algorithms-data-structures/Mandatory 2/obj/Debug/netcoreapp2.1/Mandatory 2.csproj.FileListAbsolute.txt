@@ -1,0 +1,11 @@
+C:\Users\Jonat\Documents\GitHub\CodeJudge\Mandatory 2\bin\Debug\netcoreapp2.1\Mandatory 2.deps.json
+C:\Users\Jonat\Documents\GitHub\CodeJudge\Mandatory 2\bin\Debug\netcoreapp2.1\Mandatory 2.runtimeconfig.json
+C:\Users\Jonat\Documents\GitHub\CodeJudge\Mandatory 2\bin\Debug\netcoreapp2.1\Mandatory 2.runtimeconfig.dev.json
+C:\Users\Jonat\Documents\GitHub\CodeJudge\Mandatory 2\bin\Debug\netcoreapp2.1\Mandatory 2.dll
+C:\Users\Jonat\Documents\GitHub\CodeJudge\Mandatory 2\bin\Debug\netcoreapp2.1\Mandatory 2.pdb
+C:\Users\Jonat\Documents\GitHub\CodeJudge\Mandatory 2\obj\Debug\netcoreapp2.1\Mandatory 2.csprojAssemblyReference.cache
+C:\Users\Jonat\Documents\GitHub\CodeJudge\Mandatory 2\obj\Debug\netcoreapp2.1\Mandatory 2.csproj.CoreCompileInputs.cache
+C:\Users\Jonat\Documents\GitHub\CodeJudge\Mandatory 2\obj\Debug\netcoreapp2.1\Mandatory 2.AssemblyInfoInputs.cache
+C:\Users\Jonat\Documents\GitHub\CodeJudge\Mandatory 2\obj\Debug\netcoreapp2.1\Mandatory 2.AssemblyInfo.cs
+C:\Users\Jonat\Documents\GitHub\CodeJudge\Mandatory 2\obj\Debug\netcoreapp2.1\Mandatory 2.dll
+C:\Users\Jonat\Documents\GitHub\CodeJudge\Mandatory 2\obj\Debug\netcoreapp2.1\Mandatory 2.pdb
