@@ -1,0 +1,5 @@
+ A Ticket Type was added, Name: Child 0 - 12 Price: 10 Wed May 16 14:35:28 CEST 2018
+ A Ticket Type was added, Name: Teen 13 - 25 Price: 15 Wed May 16 14:35:28 CEST 2018
+ A Ticket Type was added, Name: Adult 26 - 60 Price: 20 Wed May 16 14:35:28 CEST 2018
+ A Ticket Type was added, Name: Senior 60 + Price: 17 Wed May 16 14:35:28 CEST 2018
+ A Ticket Type was added, Name: Bike Price: 5 Wed May 16 14:35:28 CEST 2018
