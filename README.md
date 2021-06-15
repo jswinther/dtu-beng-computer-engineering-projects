@@ -1,9 +1,7 @@
 # dtu-beng-computer-engineering-projects
 Repository containing all my school projects from bachelor of engineering at DTU in computer engineering
 
-Contributors
-* https://github.com/Baekgaard26 
-* https://github.com/mmanniche
+
 * https://github.com/Squidman95
 * https://github.com/GodOfAllBeings
 * https://github.com/benjaminbruun1
@@ -11,3 +9,8 @@ Contributors
 * https://github.com/Noodlebird
 * https://github.com/hkilani
 * https://github.com/siyar95
+
+
+Contributors on compiler-construction-project-2, matlab-signal-processing-project-2, matlab-signal-processing-project-3, object-oriented-programming-java-ticketmachine, sensor-graph-java-arduino
+* https://github.com/Baekgaard26 
+* https://github.com/mmanniche
