@@ -1,5 +1,5 @@
 # dtu-beng-computer-engineering-projects
-Repository containing all my school projects
+Repository containing all my school projects from bachelor of engineering at DTU in computer engineering
 
 Contributors
 * https://github.com/Baekgaard26 
