@@ -1,14 +1,14 @@
 # dtu-beng-computer-engineering-projects
 Repository containing all my projects from bachelor of engineering at DTU in computer engineering
 
-
-
-* https://github.com/benjaminbruun1
-* https://github.com/frederikpopp
+Contributors on https://github.com/jswinther/Autonomous-Robots-Obstacle-Course
 * https://github.com/Noodlebird
 * https://github.com/hkilani
 * https://github.com/siyar95
 
+Contributors on machine learning projects
+* https://github.com/benjaminbruun1
+* https://github.com/frederikpopp
 
 Contributors on compiler-construction-project-2, matlab-signal-processing-project-2, matlab-signal-processing-project-3, object-oriented-programming-java-ticketmachine, sensor-graph-java-arduino
 * https://github.com/Baekgaard26 
