@@ -18,3 +18,5 @@ Contributors on https://github.com/jswinther/software-engineering-1-project-plan
 * https://github.com/Squidman95
 * https://github.com/GodOfAllBeings
 
+Contributors on 02110-weekly-codejudge-exercises-algorithms-data-structures
+* https://github.com/FrederikFrost
